@@ -11,34 +11,41 @@ Entre os assuntos abordados, estão:
 - Introdução ao Rust
 
 - Critérios da linguagem:
-Legibilidade
-Redigibilidade
-Confiabilidade
-Custo
+Legibilidade |
+ Redigibilidade |
+ Confiabilidade |
+ Custo
 
 - Modelo da Linguagem:
 Nomes, escopos e tempo de vida;
-Closures;
-Gerenciamento de memória;
+ Closures;
+ Gerenciamento de memória;
 
 - Sistema de tipos:
 Inferência de tipos;
-Equivalência de tipos;
-Coerções.
+ Equivalência de tipos;
+ Coerções.
 
 - Exemplos executáveis
 
 
 #Componentes do grupo:#
+
 Breno Gabriel de Moraes Duarte
+
 Felipe de Jesus Sodré
+
 Fernando de Jesus Pinto Vasques
+
 Gabriel Canto Góes
+
 Luan Anderson Alves Vieira
 
 
 #Uso de Inteligência Artificial#
+
 A Inteligência Artificial foi utilizada como ferramenta de apoio durante o desenvolvimento do trabalho.
+
 Seu uso teve como finalidade auxiliar em atividades como:
 
 - Organização e estruturação do conteúdo;
