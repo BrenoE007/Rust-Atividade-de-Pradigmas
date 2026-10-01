@@ -2,7 +2,8 @@
 Repositório para avaliação pontual de teoria e paradigmas de linguagens de programação
 
 Análise da Linguagem Rust
-#Sobre o trabalho
+
+#Sobre o trabalho#
 
 Este repositório contém o trabalho de análise da linguagem de programação Rust.
 O objetivo do trabalho é apresentar as principais características da linguagem e analisá-la a partir de inúmeros critérios e paradigmas estudados no decorrer de 5 aulas
@@ -28,7 +29,7 @@ Coerções.
 - Exemplos executáveis
 
 
-#Componentes do grupo:
+#Componentes do grupo:#
 Breno Gabriel de Moraes Duarte
 Felipe de Jesus Sodré
 Fernando de Jesus Pinto Vasques
@@ -36,7 +37,7 @@ Gabriel Canto Góes
 Luan Anderson Alves Vieira
 
 
-#Uso de Inteligência Artificial
+#Uso de Inteligência Artificial#
 A Inteligência Artificial foi utilizada como ferramenta de apoio durante o desenvolvimento do trabalho.
 Seu uso teve como finalidade auxiliar em atividades como:
 
@@ -48,7 +49,7 @@ Seu uso teve como finalidade auxiliar em atividades como:
 
 As informações apresentadas foram consultadas e verificadas na documentação oficial do Rust, utilizada como principal fonte para a elaboração do conteúdo.
 
-#Fonte principal
+#Fonte principal#
 The Rust Programming Language (The Rust Book)
 https://doc.rust-lang.org/book/
 
