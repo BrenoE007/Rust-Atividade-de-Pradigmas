@@ -29,6 +29,8 @@ Inferência de tipos;
 - Exemplos executáveis
 
 
+
+
 #Componentes do grupo:#
 
 Breno Gabriel de Moraes Duarte
@@ -40,6 +42,8 @@ Fernando de Jesus Pinto Vasques
 Gabriel Canto Góes
 
 Luan Anderson Alves Vieira
+
+
 
 
 #Uso de Inteligência Artificial#
@@ -55,6 +59,9 @@ Seu uso teve como finalidade auxiliar em atividades como:
 - Revisão textual e adequação da linguagem do trabalho.
 
 As informações apresentadas foram consultadas e verificadas na documentação oficial do Rust, utilizada como principal fonte para a elaboração do conteúdo.
+
+
+
 
 #Fonte principal#
 The Rust Programming Language (The Rust Book)
